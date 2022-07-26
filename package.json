@@ -1,0 +1,18 @@
+{
+  "name": "share-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@mm:pingo-microservice/pingo-share-lib.git"
+  },
+  "author": "Mesa SOT",
+  "license": "MIT",
+  "dependencies": {
+    "typeorm": "^0.3.7"
+  }
+}
